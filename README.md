@@ -1,2 +1,4 @@
 # winston
-Our WInston repo
+Our WInston repository
+
+Let's keep our tech stick stuff here
